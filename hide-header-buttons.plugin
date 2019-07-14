@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=hide_header_buttons
+IAge=3
+Name=Hide Header Buttons
+Description=Hides buttons from the header bar
+Authors=Sean Hammond
+Copyright=Copyright © 2019 Sean Hammond
+Website=https://github.com/seanh/gedit-hide-header-buttons
